@@ -202,7 +202,7 @@ body {
 }
 @media (min-width: 1440px) {
   .card-container {
-    margin: 15% auto;
+    margin: 22% auto;
     transform: scale(1.1);
   }
 }
