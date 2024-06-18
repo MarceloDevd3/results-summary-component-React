@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "classNames": "icon-text text-red" ,
+    "bgColor": "row--items bg-red", 
+    "category": "Reaction",
+    "score": 80,
+    "icon": "./assets/images/icon-reaction.svg"
+  },
+  {
+    "id": 2,
+    "classNames": "icon-text text-yellow" ,
+    "bgColor": "row--items bg-yellow", 
+    "category": "Memory",
+    "score": 92,
+    "icon": "./assets/images/icon-memory.svg"
+  },
+  {
+    "id": 3,
+    "classNames": "icon-text text-cian" ,
+    "bgColor": "row--items bg-cian", 
+    "category": "Verbal",
+    "score": 61,
+    "icon": "./assets/images/icon-verbal.svg"
+  },
+  {
+    "id": 4,
+    "classNames": "icon-text text-blue" ,
+    "bgColor": "row--items bg-blue", 
+    "category": "Visual",
+    "score": 72,
+    "icon": "./assets/images/icon-visual.svg"
+  }
+]

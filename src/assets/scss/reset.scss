@@ -1,0 +1,29 @@
+@import 'primeColors.scss';
+@import 'functions.scss';
+@import 'blueCard.scss';
+@import 'summaryContent.scss';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+}
+
+h1, h2, h3 {
+    color: $White;
+}
+    
+
+
+
+body {
+    font-size: 1.125em;
+    font-weight: text-weight(500) ;
+    font-family: "Hanken Grotesk", sans-serif;
+}
+
+
+
+
+
